@@ -1,0 +1,8 @@
+[
+  {
+    "slug": "no-access",
+    "file": "01-no-access--{desktop,mobile}.png",
+    "url": "/no-access",
+    "note": "„Kein Zugriff“: an account with no Extranet role (session payload rewritten)"
+  }
+]

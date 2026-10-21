@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "dashboard",
+    "file": "01-dashboard--mobile.png",
+    "url": "/",
+    "heading": "Übersicht"
+  },
+  {
+    "slug": "navigation-drawer",
+    "file": "02-navigation-drawer--mobile.png",
+    "url": "https://intranet.localhost/",
+    "heading": "Navigation (drawer open)"
+  },
+  {
+    "slug": "dogs",
+    "file": "03-dogs--mobile.png",
+    "url": "/board/dogs",
+    "heading": "Hunde"
+  },
+  {
+    "slug": "dog-detail",
+    "file": "04-dog-detail--mobile.png",
+    "url": "/board/dogs/5046",
+    "heading": "Hund"
+  },
+  {
+    "slug": "trainings",
+    "file": "05-trainings--mobile.png",
+    "url": "/board/trainings",
+    "heading": "Trainings"
+  },
+  {
+    "slug": "training-detail",
+    "file": "06-training-detail--mobile.png",
+    "url": "/board/trainings/187",
+    "heading": "Training"
+  }
+]

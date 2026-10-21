@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "training-capture-validation",
+    "file": "01-training-capture-validation--{desktop,mobile}.png",
+    "url": "/trainer/trainings/new",
+    "note": "Capture form submitted empty: validation messages"
+  },
+  {
+    "slug": "training-capture-group",
+    "file": "02-training-capture-group--{desktop,mobile}.png",
+    "url": "/trainer/trainings/new",
+    "note": "Capture form with „Gruppentraining“: multi-team picker"
+  },
+  {
+    "slug": "training-saved",
+    "file": "03-training-saved--{desktop,mobile}.png",
+    "url": "/trainer/trainings/saved",
+    "note": "„Training gespeichert“ confirmation (a real training was captured)"
+  },
+  {
+    "slug": "training-delete-dialog",
+    "file": "04-training-delete-dialog--{desktop,mobile}.png",
+    "url": "/trainer/trainings/188",
+    "note": "„Training löschen“ confirmation (cancelled)"
+  },
+  {
+    "slug": "open-trainings-row-ticked",
+    "file": "05-open-trainings-row-ticked--{desktop,mobile}.png",
+    "url": "/trainer/open-trainings",
+    "note": "One training ticked, run button enabled"
+  },
+  {
+    "slug": "trainer-billing-run-in-preparation",
+    "file": "06-trainer-billing-run-in-preparation--{desktop,mobile}.png",
+    "url": "/trainer/trainer-billing-runs/6",
+    "note": "„Eigenrechnungs-Lauf“ in preparation (created by this script)"
+  },
+  {
+    "slug": "trainer-billing-run-discard-dialog",
+    "file": "07-trainer-billing-run-discard-dialog--{desktop,mobile}.png",
+    "url": "/trainer/trainer-billing-runs/6",
+    "note": "„Eigenrechnungs-Lauf verwerfen?“ (cancelled)"
+  },
+  {
+    "slug": "open-trainings-with-run-notice",
+    "file": "08-open-trainings-with-run-notice--{desktop,mobile}.png",
+    "url": "/trainer/open-trainings",
+    "note": "„Sie haben einen Eigenrechnungs-Lauf in Vorbereitung …“ notice"
+  }
+]

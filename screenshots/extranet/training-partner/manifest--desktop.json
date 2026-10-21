@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "home",
+    "file": "01-home--desktop.png",
+    "url": "/",
+    "heading": "Startseite"
+  },
+  {
+    "slug": "navigation-drawer",
+    "file": "02-navigation-drawer--desktop.png",
+    "url": "https://extranet.localhost/",
+    "heading": "Navigation (drawer open)"
+  },
+  {
+    "slug": "trainings",
+    "file": "03-trainings--desktop.png",
+    "url": "/training-partner/trainings",
+    "heading": "Meine Trainings"
+  },
+  {
+    "slug": "training-capture",
+    "file": "04-training-capture--desktop.png",
+    "url": "/training-partner/trainings/new",
+    "heading": "Neues Training"
+  },
+  {
+    "slug": "training-detail",
+    "file": "05-training-detail--desktop.png",
+    "url": "/training-partner/trainings/186",
+    "heading": "Training"
+  },
+  {
+    "slug": "dogs",
+    "file": "06-dogs--desktop.png",
+    "url": "/training-partner/dogs",
+    "heading": "Meine Hunde"
+  },
+  {
+    "slug": "dog-training-history",
+    "file": "07-dog-training-history--desktop.png",
+    "url": "/training-partner/dogs/5046/trainings",
+    "heading": "Alma — Trainings"
+  }
+]

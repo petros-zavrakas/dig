@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "account-edit-mode",
+    "file": "01-account-edit-mode--{desktop,mobile}.png",
+    "url": "/admin/accounts/5104",
+    "note": "Account detail in edit mode"
+  },
+  {
+    "slug": "account-create-validation",
+    "file": "02-account-create-validation--{desktop,mobile}.png",
+    "url": "/admin/accounts/new",
+    "note": "„Konto anlegen“ submitted empty"
+  }
+]

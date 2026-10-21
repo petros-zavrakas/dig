@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "dashboard",
+    "file": "01-dashboard--mobile.png",
+    "url": "/",
+    "heading": "Übersicht"
+  },
+  {
+    "slug": "navigation-drawer",
+    "file": "02-navigation-drawer--mobile.png",
+    "url": "https://intranet.localhost/",
+    "heading": "Navigation (drawer open)"
+  }
+]

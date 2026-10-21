@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "user-menu-open",
+    "file": "01-user-menu-open--{desktop,mobile}.png",
+    "url": "/",
+    "note": "User menu dropdown open"
+  },
+  {
+    "slug": "billable-trainings-row-ticked",
+    "file": "02-billable-trainings-row-ticked--{desktop,mobile}.png",
+    "url": "/treasurer/billable-trainings",
+    "note": "One row ticked: other teams' checkboxes disabled, the team's run button enabled"
+  },
+  {
+    "slug": "club-billing-run-in-preparation",
+    "file": "03-club-billing-run-in-preparation--{desktop,mobile}.png",
+    "url": "/treasurer/club-billing-runs/232",
+    "note": "Run page, in preparation (created by this script)"
+  },
+  {
+    "slug": "club-billing-run-discard-dialog",
+    "file": "04-club-billing-run-discard-dialog--{desktop,mobile}.png",
+    "url": "/treasurer/club-billing-runs/232",
+    "note": "„Lauf verwerfen“ confirmation (cancelled)"
+  },
+  {
+    "slug": "billable-trainings-with-run-strip",
+    "file": "05-billable-trainings-with-run-strip--{desktop,mobile}.png",
+    "url": "/treasurer/billable-trainings",
+    "note": "„In Vorbereitung:“ strip of chips above the list"
+  },
+  {
+    "slug": "billable-trainings-columns-menu",
+    "file": "06-billable-trainings-columns-menu--{desktop,mobile}.png",
+    "url": "/treasurer/billable-trainings",
+    "note": "„Spalten“ column menu open"
+  },
+  {
+    "slug": "billable-trainings-partner-filter-open",
+    "file": "07-billable-trainings-partner-filter-open--{desktop,mobile}.png",
+    "url": "/treasurer/billable-trainings",
+    "note": "„Trainingspartner:in“ typeahead filter open"
+  },
+  {
+    "slug": "trainings-edit-mode",
+    "file": "08-trainings-edit-mode--{desktop,mobile}.png",
+    "url": "/treasurer/trainings",
+    "note": "Census list in billing edit mode („Bearbeiten“)"
+  }
+]

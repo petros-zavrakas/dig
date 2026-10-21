@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "dashboard",
+    "file": "01-dashboard--desktop.png",
+    "url": "/",
+    "heading": "Übersicht"
+  },
+  {
+    "slug": "navigation-drawer",
+    "file": "02-navigation-drawer--desktop.png",
+    "url": "https://intranet.localhost/",
+    "heading": "Navigation (drawer open)"
+  },
+  {
+    "slug": "accounts",
+    "file": "03-accounts--desktop.png",
+    "url": "/admin/accounts",
+    "heading": "Konten"
+  },
+  {
+    "slug": "account-create",
+    "file": "04-account-create--desktop.png",
+    "url": "/admin/accounts/new",
+    "heading": "Konto anlegen"
+  },
+  {
+    "slug": "account-detail",
+    "file": "05-account-detail--desktop.png",
+    "url": "/admin/accounts/5104",
+    "heading": "Konto"
+  }
+]

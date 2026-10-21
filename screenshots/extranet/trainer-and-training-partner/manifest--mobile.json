@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "home",
+    "file": "01-home--mobile.png",
+    "url": "/",
+    "heading": "Startseite"
+  },
+  {
+    "slug": "navigation-drawer",
+    "file": "02-navigation-drawer--mobile.png",
+    "url": "https://extranet.localhost/",
+    "heading": "Navigation (drawer open)"
+  }
+]

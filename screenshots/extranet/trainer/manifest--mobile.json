@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "home",
+    "file": "01-home--mobile.png",
+    "url": "/",
+    "heading": "Startseite"
+  },
+  {
+    "slug": "navigation-drawer",
+    "file": "02-navigation-drawer--mobile.png",
+    "url": "https://extranet.localhost/",
+    "heading": "Navigation (drawer open)"
+  },
+  {
+    "slug": "trainings",
+    "file": "03-trainings--mobile.png",
+    "url": "/trainer/trainings",
+    "heading": "Meine Trainings"
+  },
+  {
+    "slug": "training-capture",
+    "file": "04-training-capture--mobile.png",
+    "url": "/trainer/trainings/new",
+    "heading": "Neues Training"
+  },
+  {
+    "slug": "training-detail",
+    "file": "05-training-detail--mobile.png",
+    "url": "/trainer/trainings/187",
+    "heading": "Training"
+  },
+  {
+    "slug": "dogs",
+    "file": "06-dogs--mobile.png",
+    "url": "/trainer/dogs",
+    "heading": "Hunde"
+  },
+  {
+    "slug": "dog-training-history",
+    "file": "07-dog-training-history--mobile.png",
+    "url": "/trainer/dogs/5046/trainings",
+    "heading": "Alma — Trainings"
+  },
+  {
+    "slug": "open-trainings",
+    "file": "08-open-trainings--mobile.png",
+    "url": "/trainer/open-trainings",
+    "heading": "Offene Trainings für die Eigenrechnung"
+  },
+  {
+    "slug": "billed-trainer-billing-runs",
+    "file": "09-billed-trainer-billing-runs--mobile.png",
+    "url": "/trainer/billed-trainer-billing-runs",
+    "heading": "Abgeschlossene Eigenrechnungen"
+  },
+  {
+    "slug": "trainer-billing-run",
+    "file": "10-trainer-billing-run--mobile.png",
+    "url": "/trainer/trainer-billing-runs/5",
+    "heading": "Eigenrechnungs-Lauf · 09/2025 – 10/2025"
+  }
+]

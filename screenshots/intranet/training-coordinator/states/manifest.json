@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "training-delete-dialog",
+    "file": "01-training-delete-dialog--{desktop,mobile}.png",
+    "url": "/training-coordinator/trainings/187",
+    "note": "„Training löschen“ confirmation (cancelled)"
+  },
+  {
+    "slug": "dog-keeper-dialog",
+    "file": "02-dog-keeper-dialog--{desktop,mobile}.png",
+    "url": "/training-coordinator/dogs/5046",
+    "note": "Keeper dialog („Trainingspartner:in wechseln“ or „… zuordnen“), step 1 (cancelled)"
+  },
+  {
+    "slug": "dog-keeper-end-dialog",
+    "file": "03-dog-keeper-end-dialog--{desktop,mobile}.png",
+    "url": "/training-coordinator/dogs/5046",
+    "note": "„Beenden“ keeper dialog (cancelled)"
+  },
+  {
+    "slug": "person-link-account-dialog",
+    "file": "04-person-link-account-dialog--{desktop,mobile}.png",
+    "url": "/training-coordinator/persons/6622",
+    "note": "„Benutzerkonto zuordnen“ dialog (cancelled)"
+  },
+  {
+    "slug": "trainer-detail",
+    "file": "05-trainer-detail--{desktop,mobile}.png",
+    "url": "/training-coordinator/trainers/983",
+    "note": "„Trainer:in“ detail page (seeded Trainer:in)"
+  },
+  {
+    "slug": "dog-create-validation",
+    "file": "06-dog-create-validation--{desktop,mobile}.png",
+    "url": "/training-coordinator/dogs/new",
+    "note": "Form submitted empty: validation messages"
+  },
+  {
+    "slug": "person-create-validation",
+    "file": "07-person-create-validation--{desktop,mobile}.png",
+    "url": "/training-coordinator/persons/new",
+    "note": "Form submitted empty: validation messages"
+  },
+  {
+    "slug": "trainer-create-validation",
+    "file": "08-trainer-create-validation--{desktop,mobile}.png",
+    "url": "/training-coordinator/trainers/new",
+    "note": "Form submitted empty: validation messages"
+  }
+]

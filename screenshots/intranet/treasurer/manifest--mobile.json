@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "dashboard",
+    "file": "01-dashboard--mobile.png",
+    "url": "/",
+    "heading": "Übersicht"
+  },
+  {
+    "slug": "navigation-drawer",
+    "file": "02-navigation-drawer--mobile.png",
+    "url": "https://intranet.localhost/",
+    "heading": "Navigation (drawer open)"
+  },
+  {
+    "slug": "dogs",
+    "file": "03-dogs--mobile.png",
+    "url": "/treasurer/dogs",
+    "heading": "Hunde"
+  },
+  {
+    "slug": "dog-detail",
+    "file": "04-dog-detail--mobile.png",
+    "url": "/treasurer/dogs/5046",
+    "heading": "Hund"
+  },
+  {
+    "slug": "trainings",
+    "file": "05-trainings--mobile.png",
+    "url": "/treasurer/trainings",
+    "heading": "Trainings"
+  },
+  {
+    "slug": "training-detail",
+    "file": "06-training-detail--mobile.png",
+    "url": "/treasurer/trainings/187",
+    "heading": "Training"
+  },
+  {
+    "slug": "billable-trainings",
+    "file": "07-billable-trainings--mobile.png",
+    "url": "/treasurer/billable-trainings",
+    "heading": "Offene abrechenbare Trainings"
+  },
+  {
+    "slug": "club-billing-run-open",
+    "file": null,
+    "url": null,
+    "heading": "SKIPPED: no link matching /^\\/treasurer\\/club-billing-runs\\/\\d+/ on /treasurer/billable-trainings"
+  },
+  {
+    "slug": "billed-club-billing-runs",
+    "file": "09-billed-club-billing-runs--mobile.png",
+    "url": "/treasurer/billed-club-billing-runs",
+    "heading": "Abgeschlossene Rechnungen"
+  },
+  {
+    "slug": "club-billing-run-billed",
+    "file": "10-club-billing-run-billed--mobile.png",
+    "url": "/treasurer/club-billing-runs/229",
+    "heading": "Abrechnungs-Lauf"
+  },
+  {
+    "slug": "trainer-open-trainings",
+    "file": "11-trainer-open-trainings--mobile.png",
+    "url": "/treasurer/trainer-open-trainings",
+    "heading": "Offene Trainings je Trainer:in"
+  },
+  {
+    "slug": "tariffs",
+    "file": "12-tariffs--mobile.png",
+    "url": "/treasurer/tariffs",
+    "heading": "Tarife"
+  }
+]

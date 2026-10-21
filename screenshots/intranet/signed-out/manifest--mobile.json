@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "login",
+    "file": "01-login--mobile.png",
+    "url": "/login",
+    "heading": null
+  },
+  {
+    "slug": "reset-password",
+    "file": "02-reset-password--mobile.png",
+    "url": "/reset-password",
+    "heading": null
+  },
+  {
+    "slug": "set-password",
+    "file": "03-set-password--mobile.png",
+    "url": "/set-password",
+    "heading": null
+  }
+]

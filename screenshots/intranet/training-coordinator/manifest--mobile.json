@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "dashboard",
+    "file": "01-dashboard--mobile.png",
+    "url": "/",
+    "heading": "Übersicht"
+  },
+  {
+    "slug": "navigation-drawer",
+    "file": "02-navigation-drawer--mobile.png",
+    "url": "https://intranet.localhost/",
+    "heading": "Navigation (drawer open)"
+  },
+  {
+    "slug": "dogs",
+    "file": "03-dogs--mobile.png",
+    "url": "/training-coordinator/dogs",
+    "heading": "Hunde"
+  },
+  {
+    "slug": "dog-create",
+    "file": "04-dog-create--mobile.png",
+    "url": "/training-coordinator/dogs/new",
+    "heading": "Hund anlegen"
+  },
+  {
+    "slug": "dog-detail",
+    "file": "05-dog-detail--mobile.png",
+    "url": "/training-coordinator/dogs/5046",
+    "heading": "Hund"
+  },
+  {
+    "slug": "persons",
+    "file": "06-persons--mobile.png",
+    "url": "/training-coordinator/persons",
+    "heading": "Personen"
+  },
+  {
+    "slug": "person-create",
+    "file": "07-person-create--mobile.png",
+    "url": "/training-coordinator/persons/new",
+    "heading": "Person anlegen"
+  },
+  {
+    "slug": "person-detail",
+    "file": "08-person-detail--mobile.png",
+    "url": "/training-coordinator/persons/6609",
+    "heading": "Person"
+  },
+  {
+    "slug": "trainer-create",
+    "file": "09-trainer-create--mobile.png",
+    "url": "/training-coordinator/trainers/new",
+    "heading": "Trainer:in anlegen"
+  },
+  {
+    "slug": "trainings",
+    "file": "10-trainings--mobile.png",
+    "url": "/training-coordinator/trainings",
+    "heading": "Trainings"
+  },
+  {
+    "slug": "training-detail",
+    "file": "11-training-detail--mobile.png",
+    "url": "/training-coordinator/trainings/187",
+    "heading": "Training"
+  },
+  {
+    "slug": "tariffs",
+    "file": "12-tariffs--mobile.png",
+    "url": "/training-coordinator/tariffs",
+    "heading": "Tarife"
+  }
+]
